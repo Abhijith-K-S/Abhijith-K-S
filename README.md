@@ -8,7 +8,7 @@
 
 &nbsp;
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?&username=Abhijith-K-S&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-K-S&layout=compact&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?&username=Abhijith-K-S&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-K-S&layout=compact&langs_count=6&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
 
 ## Tools and technologies
