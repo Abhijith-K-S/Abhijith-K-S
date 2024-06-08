@@ -15,10 +15,6 @@ Hey there! I'm Abhijith
 
 <br>
 
--   :robot: &nbsp;Android developer 
--   :hammer_and_wrench: &nbsp;Dabbles in backend development 
--   :rocket: &nbsp;Currently working with react native
-
 &nbsp;
 
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?&username=Abhijith-K-S&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijith-K-S&layout=compact&langs_count=6&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
